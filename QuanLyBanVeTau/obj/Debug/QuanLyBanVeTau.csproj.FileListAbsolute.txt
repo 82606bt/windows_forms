@@ -1,0 +1,63 @@
+E:\CuoiKi\QuanLyBanVeTau\QuanLyBanVeTau\bin\Debug\QuanLyBanVeTau.exe.config
+E:\CuoiKi\QuanLyBanVeTau\bin\Debug\QuanLyBanVeTau.exe.config
+E:\CuoiKi\QuanLyBanVeTau\obj\Debug\QuanLyBanVeTau.csprojResolveAssemblyReference.cache
+E:\CuoiKi\QuanLyBanVeTau\obj\Debug\QuanLyBanVeTau.Properties.Resources.resources
+E:\CuoiKi\QuanLyBanVeTau\obj\Debug\QuanLyBanVeTau.csproj.GenerateResource.Cache
+E:\CuoiKi\QuanLyBanVeTau\bin\Debug\QuanLyBanVeTau.exe
+E:\CuoiKi\QuanLyBanVeTau\bin\Debug\QuanLyBanVeTau.pdb
+E:\CuoiKi\QuanLyBanVeTau\obj\Debug\QuanLyBanVeTau.exe
+E:\CuoiKi\QuanLyBanVeTau\obj\Debug\QuanLyBanVeTau.pdb
+E:\CuoiKi\QuanLyBanVeTau\obj\Debug\QuanLyBanVeTau.Login.resources
+E:\CuoiKi\QuanLyBanVeTau\obj\Debug\QuanLyBanVeTau.GiaoDien.resources
+E:\CuoiKi\QuanLyBanVeTau\obj\Debug\QuanLyBanVeTau.Thongke.resources
+E:\CuoiKi\QuanLyBanVeTau\obj\Debug\QuanLyBanVeTau.TraCuu.resources
+E:\CuoiKi\QuanLyBanVeTau\obj\Debug\QuanLyBanVeTau.TaoAccount.resources
+E:\CuoiKi\QuanLyBanVeTau\obj\Debug\QuanLyBanVeTau.ThemVeTau.resources
+E:\CuoiKi\QuanLyBanVeTau\obj\Debug\QuanLyBanVeTau.ChangePassword.resources
+E:\HK6\Mon Ado\Thực hành\CuoiKi\QuanLyBanVeTau\bin\Debug\QuanLyBanVeTau.exe.config
+E:\HK6\Mon Ado\Thực hành\CuoiKi\QuanLyBanVeTau\obj\Debug\QuanLyBanVeTau.exe
+E:\HK6\Mon Ado\Thực hành\CuoiKi\QuanLyBanVeTau\obj\Debug\QuanLyBanVeTau.pdb
+D:\CuoiKi\QuanLyBanVeTau\bin\Debug\QuanLyBanVeTau.exe.config
+D:\CuoiKi\QuanLyBanVeTau\obj\Debug\QuanLyBanVeTau.exe
+D:\CuoiKi\QuanLyBanVeTau\obj\Debug\QuanLyBanVeTau.pdb
+D:\CuoiKi\QuanLyBanVeTau\bin\Debug\QuanLyBanVeTau.exe
+D:\CuoiKi\QuanLyBanVeTau\bin\Debug\QuanLyBanVeTau.pdb
+D:\CuoiKi\QuanLyBanVeTau\obj\Debug\QuanLyBanVeTau.csprojResolveAssemblyReference.cache
+D:\CuoiKi\QuanLyBanVeTau\obj\Debug\QuanLyBanVeTau.ChangePassword.resources
+D:\CuoiKi\QuanLyBanVeTau\obj\Debug\QuanLyBanVeTau.TaoAccount.resources
+D:\CuoiKi\QuanLyBanVeTau\obj\Debug\QuanLyBanVeTau.GiaoDien.resources
+D:\CuoiKi\QuanLyBanVeTau\obj\Debug\QuanLyBanVeTau.Login.resources
+D:\CuoiKi\QuanLyBanVeTau\obj\Debug\QuanLyBanVeTau.Properties.Resources.resources
+D:\CuoiKi\QuanLyBanVeTau\obj\Debug\QuanLyBanVeTau.ThemVeTau.resources
+D:\CuoiKi\QuanLyBanVeTau\obj\Debug\QuanLyBanVeTau.Thongke.resources
+D:\CuoiKi\QuanLyBanVeTau\obj\Debug\QuanLyBanVeTau.TraCuu.resources
+D:\CuoiKi\QuanLyBanVeTau\obj\Debug\QuanLyBanVeTau.csproj.GenerateResource.Cache
+F:\HK6\Mon Ado\Thực hành\CuoiKi\QuanLyBanVeTau\bin\Debug\QuanLyBanVeTau.exe.config
+F:\HK6\Mon Ado\Thực hành\CuoiKi\QuanLyBanVeTau\obj\Debug\QuanLyBanVeTau.exe
+F:\HK6\Mon Ado\Thực hành\CuoiKi\QuanLyBanVeTau\obj\Debug\QuanLyBanVeTau.pdb
+F:\HK6\Mon Ado\Thực hành\CuoiKi\QuanLyBanVeTau\bin\Debug\QuanLyBanVeTau.exe
+F:\HK6\Mon Ado\Thực hành\CuoiKi\QuanLyBanVeTau\bin\Debug\QuanLyBanVeTau.pdb
+F:\HK6\Mon Ado\Thực hành\CuoiKi\QuanLyBanVeTau\obj\Debug\QuanLyBanVeTau.csprojResolveAssemblyReference.cache
+F:\HK6\Mon Ado\Thực hành\CuoiKi\QuanLyBanVeTau\obj\Debug\QuanLyBanVeTau.ChangePassword.resources
+F:\HK6\Mon Ado\Thực hành\CuoiKi\QuanLyBanVeTau\obj\Debug\QuanLyBanVeTau.TaoAccount.resources
+F:\HK6\Mon Ado\Thực hành\CuoiKi\QuanLyBanVeTau\obj\Debug\QuanLyBanVeTau.GiaoDien.resources
+F:\HK6\Mon Ado\Thực hành\CuoiKi\QuanLyBanVeTau\obj\Debug\QuanLyBanVeTau.Login.resources
+F:\HK6\Mon Ado\Thực hành\CuoiKi\QuanLyBanVeTau\obj\Debug\QuanLyBanVeTau.Properties.Resources.resources
+F:\HK6\Mon Ado\Thực hành\CuoiKi\QuanLyBanVeTau\obj\Debug\QuanLyBanVeTau.ThemVeTau.resources
+F:\HK6\Mon Ado\Thực hành\CuoiKi\QuanLyBanVeTau\obj\Debug\QuanLyBanVeTau.Thongke.resources
+F:\HK6\Mon Ado\Thực hành\CuoiKi\QuanLyBanVeTau\obj\Debug\QuanLyBanVeTau.TraCuu.resources
+F:\HK6\Mon Ado\Thực hành\CuoiKi\QuanLyBanVeTau\obj\Debug\QuanLyBanVeTau.csproj.GenerateResource.Cache
+F:\HK6\Mon Ado\Thực hành\CuoiKi\QuanLyBanVeTau\obj\Debug\QuanLyBanVeTau.NguoiMua.resources
+E:\HK6\Mon Ado\Thực hành\CuoiKi\QuanLyBanVeTau\bin\Debug\QuanLyBanVeTau.exe
+E:\HK6\Mon Ado\Thực hành\CuoiKi\QuanLyBanVeTau\bin\Debug\QuanLyBanVeTau.pdb
+E:\HK6\Mon Ado\Thực hành\CuoiKi\QuanLyBanVeTau\obj\Debug\QuanLyBanVeTau.csprojResolveAssemblyReference.cache
+E:\HK6\Mon Ado\Thực hành\CuoiKi\QuanLyBanVeTau\obj\Debug\QuanLyBanVeTau.ChangePassword.resources
+E:\HK6\Mon Ado\Thực hành\CuoiKi\QuanLyBanVeTau\obj\Debug\QuanLyBanVeTau.NguoiMua.resources
+E:\HK6\Mon Ado\Thực hành\CuoiKi\QuanLyBanVeTau\obj\Debug\QuanLyBanVeTau.TaoAccount.resources
+E:\HK6\Mon Ado\Thực hành\CuoiKi\QuanLyBanVeTau\obj\Debug\QuanLyBanVeTau.GiaoDien.resources
+E:\HK6\Mon Ado\Thực hành\CuoiKi\QuanLyBanVeTau\obj\Debug\QuanLyBanVeTau.Login.resources
+E:\HK6\Mon Ado\Thực hành\CuoiKi\QuanLyBanVeTau\obj\Debug\QuanLyBanVeTau.Properties.Resources.resources
+E:\HK6\Mon Ado\Thực hành\CuoiKi\QuanLyBanVeTau\obj\Debug\QuanLyBanVeTau.ThemVeTau.resources
+E:\HK6\Mon Ado\Thực hành\CuoiKi\QuanLyBanVeTau\obj\Debug\QuanLyBanVeTau.Thongke.resources
+E:\HK6\Mon Ado\Thực hành\CuoiKi\QuanLyBanVeTau\obj\Debug\QuanLyBanVeTau.TraCuu.resources
+E:\HK6\Mon Ado\Thực hành\CuoiKi\QuanLyBanVeTau\obj\Debug\QuanLyBanVeTau.csproj.GenerateResource.Cache
